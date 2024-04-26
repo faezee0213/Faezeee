@@ -1,4 +1,3 @@
-# Faezeee
 # Logs
 logs
 *.log
