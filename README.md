@@ -5,7 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 
 # Diagnostic reports (https://noejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.json
+report.[0-9]*.[0-9]*.[0-9\*.json
 
 # Runtime data
 pids
