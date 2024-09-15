@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.l
 
 # Diagnostic report(https://noejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9\*.json
